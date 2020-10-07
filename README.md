@@ -12,4 +12,4 @@ mkdir -p .gitlab/merge_request_templates && curl -fsSL https://raw.githubusercon
 
 When creating new merge request, choose the *Default* template from the *Choose a template* dropdown in *Description* section.
 
-![mr](./gitlab_mr.png)
+![mr](./mr.png)
