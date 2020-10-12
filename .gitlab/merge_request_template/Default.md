@@ -6,7 +6,7 @@ What types of changes does this PR introduce.
 - [ ] Bug fix
 - [ ] Refactor
 - [ ] Add more tests
-- [ ] Other (please specify):
+- [ ] Chore:
 
 ## Does this introduce a breaking change
 
